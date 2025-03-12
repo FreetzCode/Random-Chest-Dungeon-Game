@@ -1,6 +1,5 @@
 # 🏆 Random Chest Dungeon Game
 
-![Game Banner](https://via.placeholder.com/1200x400?text=Random+Chest+Dungeon+Game)  
 *A text-based dungeon adventure where luck decides your fate!*
 
 ---
